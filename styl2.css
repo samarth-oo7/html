@@ -1,0 +1,15 @@
+ul{
+    height: 200px;
+    width: 200px;
+    display: inline-flex;
+    color: blue;
+    background-color: azure
+
+
+}
+li{
+    padding: 40px;
+    background-color: brown;
+    list-style: none;
+    font-size: larger;
+}
